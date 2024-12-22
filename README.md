@@ -5,7 +5,7 @@ This repository contains the code and data used to reproduce the results present
 ## Datasets
 This repository includes the following datasets:
 * 'figure_1_data.pkl': This dataset contains the yearly number of papers and citations of women and men prizewinners and contenders before and after prizewinning, used to reproduce the results of the first figure.
-* 'figure_2_data.csv': This dataset contains the academic career length after prizewinning of women and men prizewinners and contenders, used to reproduce the results of the second figure.
+* 'figure_2_data.csv': This dataset contains the career longevity after prizewinning of women and men prizewinners and contenders, used to reproduce the results of the second figure.
 
 ## Code 
 The code for this project is organized into two scripts, each serving a specific purpose:
