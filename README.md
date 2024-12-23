@@ -1,4 +1,4 @@
-# Prize-Recognition-Boosts-Women's-Scientific-Status-and-Career-Longevity
+# Prize Recognition Boosts Women's Scientific Status and Career Longevity More than Men’s
 ## Codes and data for reproducing results
 This repository contains the code and data used to reproduce the results presented in the paper "Prize Recognition Boosts Women’s Scientific Status and Career Longevity More than Men’s".
 
